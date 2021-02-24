@@ -34,6 +34,8 @@ Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b**
 
 <br>
 <br>
+<br>
+<br>
 
 Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondial des gamins de 13 ans incompétents.
 
