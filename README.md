@@ -22,7 +22,7 @@ et il y en a d'autre mais bon... la liste peut être très longue...
 <br>
 <br>
 
-<img src="pic/bt.gif" align="left" height="200">
+<img src="pic/bt.gif" align="left" height="250">
 
 ## **Mes gouts** <img src="pic/734622241639104532.gif" height="20">
 
@@ -30,7 +30,7 @@ Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b**
 
 "Petit j'étais persuadé que je deviendrai quelqu'un" dit le mec qui sait faire des nmap mais qui est teg par Cloudflare.
 
-<img src="pic/hacker.gif" align="right" height="200">
+<img src="pic/hacker.gif" align="right" height="100">
 
 Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondial des gamins de 13 ans incompétents.
 
