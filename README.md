@@ -45,7 +45,7 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 | 📆 | Lundi | Mardi | Mercredi | Jeudi | Vendredi | Samedi | Dimanche |
 | ---- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ptit dej | `none` | `none` | `none` | `none` | `none` | `none` | `none` |
-| Déjeuner | Pates saumon fumé <img src="pic/560610208536068118.gif" height="20"> | Cordon bleu | Crepes | Hamburger <img src="pic/4334_pepe1.gif" height="20"> | Uber-eat | Poulet rôti | Riz |
+| Déjeuner | Pates saumon <img src="pic/560610208536068118.gif" height="20"> | Cordon bleu | Crepes | Hamburger <img src="pic/4334_pepe1.gif" height="20"> | Uber-eat | Poulet rôti | Riz |
 | Gouter | `none` | `none` | Cookies | `none` | `none` | Brownies | Brownies |
 | Apéro | Coca | Coca | Coca | Coca | Ice Tea | Coca | Coca |
 | Diner | Tarte | Legumes <img src="pic/734622181589254245.gif" height="20"> | Pate | Reste | Sandwich <img src="pic/Deadpool_heart_love.gif" height="20"> | Pizza <img src="pic/7577_CatDancing.gif" height="20">  |  Reste |
