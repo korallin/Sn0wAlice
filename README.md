@@ -24,7 +24,7 @@ et il y en a d'autre mais bon... la liste peut être très longue...
 
 <img src="pic/bt.gif" align="left" height="200">
 
-## **Mes gouts**
+## **Mes gouts** <img src="pic/734622241639104532.gif" height="20">
 
 Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b**
 
