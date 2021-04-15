@@ -3,7 +3,7 @@
 <img src="pic/cyber.gif"  align="center">
 
 ## **Me**  <img src="pic/5869_TakagiShhh.gif" height="20">
-**YO !** Alors qui je suis ? *heuuuu* un mec random. Il n'y a pas plus simple. J'aime ce que je fais même si je le fais mal. Les réseaux *décentralisés* et les *blockchain 📦* c'est mes passions ! *Et, on ne va pas se mentir, les conneries aussi <img src="pic/dance.gif" height="20">* 
+**YO !** Alors qui je suis ? *heuuuu* un mec random. Il n'y a pas plus simple. J'aime ce que je fais même si je le fais mal. Les réseaux *décentralisés* et les *blockchain 📦* c'est mes passions ! *Et, on ne va pas se mentir, les conneries aussi <img src="pic/dance.gif" height="20">* ![](https://komarev.com/ghpvc/?username=DrBlackWolf&color=yellow)
 
 <img src="pic/alice.gif" align="right" height="250">
 
