@@ -1,0 +1,12 @@
+[
+  {"name": "Pain + Chocolat", "emote": false},
+  {"name": "Un fruit et quelques biscuits", "emote": false},
+  {"name": "Un bol de céréales", "emote": false},
+  {"name": "Un flan pâtissier", "emote": false},
+  {"name": "Smoothie marshmallows", "emote": false},
+  {"name": "Cookie moelleux aux pépites de chocolat", "emote": true},
+  {"name": "Mug cake aux framboises", "emote": true},
+  {"name": "Fondant au chocolat", "emote": true},
+  {"name": "Barres de céréales au chocolat blanc", "emote": false},
+  {"name": "Gâteau au Nutella", "emote": true}
+]

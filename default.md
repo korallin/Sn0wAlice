@@ -47,14 +47,7 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | 2/4/2021 | 
-| ---- | :--- | 
-| Ptit dej | Cake aux dattes | 
-| Apéro | Baguette surprise | 
-| Déjeuner | BEVO Bar + Pizzeria | 
-| Gouter | Pain + Chocolat | 
-| Apéro | Poivrons rouges à la mozzarella <img src='pic/560610208536068118.gif' height='20'> | 
-| Diner | Salade de riz à la mexicaine |
+food.table
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
