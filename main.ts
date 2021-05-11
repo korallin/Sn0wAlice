@@ -54,3 +54,5 @@ Deno.writeTextFileSync('./README.md', fiche)
 
 console.log(table)
 console.log("[SYSTEM] - Done")
+var fiche = Deno.readTextFileSync('./README.md')
+console.log(fiche)
