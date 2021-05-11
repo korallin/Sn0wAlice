@@ -12,7 +12,7 @@
 <li>🦠 Covid19 **Positive**: 28756489 **Recovered**: 10933942 **Death**: 515151</li>
 <li>⬛️🟧 3,208,383 videos</li>
 <li>⚔️ Steam Online: 
-							23,827,778						</li>
+							23,818,053						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,21 +53,12 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 | 📆 | Date: 2/4/2021 | 
 | ---- | :--- | 
-<<<<<<< Updated upstream
-| Ptit dej | Quatre-quarts aux pommes | 
+| Ptit dej | Smoothie aux fruits rouges | 
 | 1er Apéro | Banderilles de langoustines et de chorizo | 
-| Déjeuner | Wok de cabillaud à la chinoise | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | Quiche lorraine |
-=======
-| Ptit dej | Céréales complètes chocolat bananes coco | 
-| 1er Apéro | Crostini à la scamorza fumée | 
-| Déjeuner | Roulés de crêpes au saumon fumé et fromage | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Poivrons rouges à la mozzarella <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| Diner | Salade de riz à la mexicaine |
->>>>>>> Stashed changes
+| Déjeuner | Boulettes orientales <img src='pic/734622241639104532.gif' height='20'> | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Diner | Sauté de porc aux courgettes et aux amandes |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
