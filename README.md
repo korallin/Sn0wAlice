@@ -49,12 +49,12 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 | 📆 | Date: 2/4/2021 | 
 | ---- | :--- | 
-| Ptit dej | Cake aux poires | 
-| 1er Apéro | Baguette surprise | 
-| Déjeuner | BEVO Bar + Pizzeria | 
+| Ptit dej | Quatre-quarts aux pommes | 
+| 1er Apéro | Banderilles de langoustines et de chorizo | 
+| Déjeuner | Wok de cabillaud à la chinoise | 
 | Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Baguette surprise | 
-| Diner | Saumon gratiné au cerfeuil <img src='pic/8395_CerberusFastTap.gif' height='20'> |
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Quiche lorraine |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
