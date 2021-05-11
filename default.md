@@ -9,6 +9,9 @@
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
+<li>🦠 Covid19 **Positive**: covid.positive **Recovered**: covid.recovered **Death**: covid.death</li>
+<li>⬛️🟧 by.videos</li>
+<li>⚔️ Steam Online: steam.player</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -26,7 +29,7 @@ et il y en a d'autre mais bon... la liste peut être très longue...
 
 ## **Mes gouts** <img src="pic/734622241639104532.gif" height="20">
 
-Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b**
+Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b** Il y a **rm.room** chall sur Root-Me.
 
 "Petit j'étais persuadé que je deviendrai quelqu'un" dit le mec qui sait faire des nmap mais qui est teg par Cloudflare.
 

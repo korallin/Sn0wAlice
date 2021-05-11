@@ -9,6 +9,10 @@
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
+<li>🦠 Covid19 **Positive**: 28756489 **Recovered**: 10933942 **Death**: 515151</li>
+<li>⬛️🟧 3,208,383 videos</li>
+<li>⚔️ Steam Online: 
+							23,827,778						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -26,7 +30,7 @@ et il y en a d'autre mais bon... la liste peut être très longue...
 
 ## **Mes gouts** <img src="pic/734622241639104532.gif" height="20">
 
-Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b**
+Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b** Il y a **421** chall sur Root-Me.
 
 "Petit j'étais persuadé que je deviendrai quelqu'un" dit le mec qui sait faire des nmap mais qui est teg par Cloudflare.
 
@@ -49,12 +53,21 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 | 📆 | Date: 2/4/2021 | 
 | ---- | :--- | 
+<<<<<<< Updated upstream
 | Ptit dej | Quatre-quarts aux pommes | 
 | 1er Apéro | Banderilles de langoustines et de chorizo | 
 | Déjeuner | Wok de cabillaud à la chinoise | 
 | Gouter | Barres de céréales au chocolat blanc | 
 | 2em Apéro | Banderilles de langoustines et de chorizo | 
 | Diner | Quiche lorraine |
+=======
+| Ptit dej | Céréales complètes chocolat bananes coco | 
+| 1er Apéro | Crostini à la scamorza fumée | 
+| Déjeuner | Roulés de crêpes au saumon fumé et fromage | 
+| Gouter | Barres de céréales au chocolat blanc | 
+| 2em Apéro | Poivrons rouges à la mozzarella <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Diner | Salade de riz à la mexicaine |
+>>>>>>> Stashed changes
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
