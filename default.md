@@ -9,7 +9,7 @@
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
-<li>🦠 Covid19 **Positive**: covid.positive **Recovered**: covid.recovered **Death**: covid.death</li>
+<li>🦠 Covid19 <b>Positive</b>: covid.positive <b>Recovered</b>: covid.recovered <b>Death</b>: covid.death</li>
 <li>⬛️🟧 by.videos</li>
 <li>⚔️ Steam Online: steam.player</li>
 <li>📝 Dont forget to watch my websites !</li>
