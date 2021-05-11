@@ -23,3 +23,7 @@ jobs:
           deno-version: ${{ matrix.deno-version }}
       - name: GitHub Action for Deno
         run: deno run -A --unstable --no-check main.ts 
+      - uses: DrBlackWolf/DrBlackWolf@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: '' 
