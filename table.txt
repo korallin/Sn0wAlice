@@ -1,4 +1,4 @@
-| 📆 | food.day | 
+| 📆 | Date: food.day | 
 | ---- | :--- | 
 | Ptit dej | food.petitdej | 
 | 1er Apéro | food.apero0 | 
