@@ -8,7 +8,7 @@ function create_food() {
   "734622181589254245", "734622241639104532", "dance", "Deadpool_aw_shock", "Deadpool_clapping_appreciating", "Deadpool_heart_love"]
 
   var date = new Date();
-  var date_final = date.getDay()+'/'+date.getMonth()+'/'+date.getFullYear()
+  var date_final = date
   var table = Deno.readTextFileSync('./table.txt')
 
   //<img src="pic/560610208536068118.gif" height="20">
