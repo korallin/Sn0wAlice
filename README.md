@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,212,240 videos</li>
 <li>⚔️ Steam Online: 
-							18,538,020						</li>
+							19,748,322						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 14 2021 10:12:36 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 14 2021 11:09:27 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Crêpes aux pommes | 
-| 1er Apéro | Apéritif breton | 
-| Déjeuner | Lasagnes à la bolognaise | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/560610208536068118.gif' height='20'> | 
-| 2em Apéro | Barquette d'endives cocktails | 
-| Diner | Hachis parmentier à la dinde |
+| Ptit dej | Smoothie aux fruits rouges | 
+| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| Déjeuner | BEVO Bar + Pizzeria | 
+| Gouter | Un fruit et quelques biscuits | 
+| 2em Apéro | Acras de poulet <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Diner | Gratin de gnocchis tomate |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
