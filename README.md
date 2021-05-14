@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,213,609 videos</li>
+<li>⬛️🟧 3,213,904 videos</li>
 <li>⚔️ Steam Online: 
-							18,997,256						</li>
+							17,610,415						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 14 2021 22:13:30 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 14 2021 23:12:52 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Quatre-quarts aux pommes | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
-| Déjeuner | Omelette au fromage | 
-| Gouter | Smoothie marshmallows | 
-| 2em Apéro | Crostini à la scamorza fumée | 
-| Diner | Pâtes au citron et au basilic |
+| Ptit dej | Salade de fruits | 
+| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| Déjeuner | Pomme de terre farcie aux lardons | 
+| Gouter | Un bol de céréales | 
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Taboulé aux pois chiches <img src='pic/734622181589254245.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
