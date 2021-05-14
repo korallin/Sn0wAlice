@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,211,811 videos</li>
 <li>⚔️ Steam Online: 
-							15,271,090						</li>
+							15,514,252						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 14 2021 05:19:29 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 14 2021 06:13:44 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Madeleines à la vanille | 
-| 1er Apéro | Houmous | 
-| Déjeuner | Pizza au poulet <img src='pic/560610208536068118.gif' height='20'> | 
-| Gouter | Un flan pâtissier | 
-| 2em Apéro | Houmous | 
-| Diner | Oeufs mimosa au paprika <img src='pic/dance.gif' height='20'> |
+| Ptit dej | Gaufres <img src='pic/734622115159867473.gif' height='20'> | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
+| Déjeuner | croque-monsieur | 
+| Gouter | Barres de céréales au chocolat blanc | 
+| 2em Apéro | Rillettes de saumon | 
+| Diner | RACLETTE <img src='pic/734622181589254245.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
