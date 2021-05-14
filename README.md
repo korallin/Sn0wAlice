@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,212,240 videos</li>
+<li>⬛️🟧 3,212,804 videos</li>
 <li>⚔️ Steam Online: 
-							19,748,322						</li>
+							21,647,729						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 14 2021 11:09:27 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 14 2021 12:15:49 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Smoothie aux fruits rouges | 
-| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Déjeuner | BEVO Bar + Pizzeria | 
-| Gouter | Un fruit et quelques biscuits | 
-| 2em Apéro | Acras de poulet <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| Diner | Gratin de gnocchis tomate |
+| Ptit dej | Pain perdu | 
+| 1er Apéro | Barquette d'endives cocktails | 
+| Déjeuner | Tartiflette | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Bouchée de foie gras | 
+| Diner | Empanadas de crevettes et fromage |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
