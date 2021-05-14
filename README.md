@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,213,583 videos</li>
 <li>⚔️ Steam Online: 
-							22,908,585						</li>
+							22,154,905						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 14 2021 18:26:32 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 14 2021 19:19:29 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Crêpes aux pommes | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Déjeuner | Pâtes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| 2em Apéro | Crostini à la scamorza fumée | 
-| Diner | Pâtes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> <img src='pic/8395_CerberusFastTap.gif' height='20'> |
+| Ptit dej | Verrines de muesli | 
+| 1er Apéro | Crostini à la scamorza fumée | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Gouter | Un flan pâtissier | 
+| 2em Apéro | Houmous | 
+| Diner | Boulettes orientales <img src='pic/Deadpool_heart_love.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
