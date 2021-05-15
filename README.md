@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,214,011 videos</li>
 <li>⚔️ Steam Online: 
-							16,745,991						</li>
+							17,045,112						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 15 2021 00:35:33 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 15 2021 02:09:52 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Gaufres <img src='pic/7577_CatDancing.gif' height='20'> | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622181589254245.gif' height='20'> | 
-| Déjeuner | Quiche lorraine | 
-| Gouter | Pain + Chocolat | 
-| 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | Saumon gratiné au cerfeuil <img src='pic/Deadpool_heart_love.gif' height='20'> |
+| Ptit dej | Crêpes aux pommes | 
+| 1er Apéro | Rillettes de saumon | 
+| Déjeuner | Novo Burger <img src='pic/dance.gif' height='20'> | 
+| Gouter | Fondant au chocolat <img src='pic/dance.gif' height='20'> | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Diner | Hachis parmentier à la dinde |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
