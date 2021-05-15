@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,215,786 videos</li>
 <li>⚔️ Steam Online: 
-							23,067,126						</li>
+							22,711,184						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 15 2021 18:23:50 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 15 2021 19:17:34 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Gâteau au yaourt | 
-| 1er Apéro | Rillettes de saumon | 
-| Déjeuner | Salade de pâtes au thon, tomate et maïs | 
-| Gouter | Pain + Chocolat | 
+| Ptit dej | Fondant au chocolat <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| 1er Apéro | Crostini à la scamorza fumée | 
+| Déjeuner | chili con carne | 
+| Gouter | Smoothie marshmallows | 
 | 2em Apéro | Baguette surprise | 
-| Diner | croque-monsieur |
+| Diner | Pâtes aux Tomates Fraîches |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
