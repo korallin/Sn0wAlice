@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,216,666 videos</li>
 <li>⚔️ Steam Online: 
-							17,657,224						</li>
+							17,794,796						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sun May 16 2021 03:28:53 GMT+0000 (UTC) | 
+| 📆 | Date: Sun May 16 2021 04:22:46 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Quatre-quarts aux pommes | 
-| 1er Apéro | Acras de poulet <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Déjeuner | Salade de pâtes au thon, tomate et maïs | 
-| Gouter | Fondant au chocolat <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/7577_CatDancing.gif' height='20'> | 
-| Diner | Pâtes au citron et au basilic |
+| Ptit dej | Cookies au chocolat | 
+| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Gouter | Mug cake aux framboises <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Tofu au sésame et à l’orange |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
