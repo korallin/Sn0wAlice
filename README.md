@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,216,060 videos</li>
 <li>⚔️ Steam Online: 
-							16,893,289						</li>
+							17,264,067						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sun May 16 2021 00:39:43 GMT+0000 (UTC) | 
+| 📆 | Date: Sun May 16 2021 02:17:39 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Smoothie aux fruits rouges | 
-| 1er Apéro | Rillettes de saumon | 
-| Déjeuner | Omelette fine au persil | 
-| Gouter | Un bol de céréales | 
-| 2em Apéro | Bouchée de foie gras | 
-| Diner | Pâtes au saumon fumé <img src='pic/dance.gif' height='20'> |
+| Ptit dej | Verrines de muesli | 
+| 1er Apéro | Cocktail <img src='pic/734622241639104532.gif' height='20'> <img src='pic/734622181589254245.gif' height='20'> | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Gouter | Un flan pâtissier | 
+| 2em Apéro | Cocktail <img src='pic/734622241639104532.gif' height='20'> <img src='pic/734622181589254245.gif' height='20'> | 
+| Diner | Boulettes orientales <img src='pic/734622241639104532.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
