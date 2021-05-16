@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,216,666 videos</li>
 <li>⚔️ Steam Online: 
-							17,897,157						</li>
+							18,059,603						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sun May 16 2021 05:20:33 GMT+0000 (UTC) | 
+| 📆 | Date: Sun May 16 2021 06:13:33 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Marbré | 
-| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| Déjeuner | Boulettes orientales <img src='pic/734622181589254245.gif' height='20'> | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/734622241639104532.gif' height='20'> | 
-| 2em Apéro | Apéritif breton | 
-| Diner | Pomme de terre farcie aux lardons |
+| Ptit dej | Chocolatine <img src='pic/7577_CatDancing.gif' height='20'> | 
+| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
+| Déjeuner | Saumon gratiné au cerfeuil <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| Gouter | Un bol de céréales | 
+| 2em Apéro | Bouchée de foie gras | 
+| Diner | Hachis parmentier à la dinde |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
