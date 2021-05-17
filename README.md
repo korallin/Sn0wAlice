@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,220,353 videos</li>
 <li>⚔️ Steam Online: 
-							22,977,267						</li>
+							22,516,412						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Mon May 17 2021 18:26:13 GMT+0000 (UTC) | 
+| 📆 | Date: Mon May 17 2021 19:18:46 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Cookies au chocolat | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/dance.gif' height='20'> | 
-| Déjeuner | Taboulé aux pois chiches <img src='pic/dance.gif' height='20'> | 
-| Gouter | Mug cake aux framboises <img src='pic/734622115159867473.gif' height='20'> | 
-| 2em Apéro | Rillettes de saumon | 
-| Diner | Sauté de porc aux courgettes et aux amandes |
+| Ptit dej | Smoothie au kiwi | 
+| 1er Apéro | Rillettes de saumon | 
+| Déjeuner | croque-monsieur | 
+| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| 2em Apéro | Bouchée de foie gras | 
+| Diner | Oeufs mimosa au paprika <img src='pic/734622150908182588.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
