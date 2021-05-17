@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,218,964 videos</li>
 <li>⚔️ Steam Online: 
-							15,472,431						</li>
+							15,725,016						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Mon May 17 2021 05:19:39 GMT+0000 (UTC) | 
+| 📆 | Date: Mon May 17 2021 06:16:21 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Cake aux poires | 
-| 1er Apéro | Bouchée de foie gras | 
-| Déjeuner | Pomme de terre farcie aux lardons | 
-| Gouter | Mug cake aux framboises <img src='pic/dance.gif' height='20'> | 
-| 2em Apéro | Cocktail <img src='pic/734622181589254245.gif' height='20'> | 
-| Diner | Boca |
+| Ptit dej | Cake chocolat banane <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/560610208536068118.gif' height='20'> | 
+| Déjeuner | Lasagnes à la bolognaise | 
+| Gouter | Mug cake aux framboises <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| 2em Apéro | Rillettes de saumon | 
+| Diner | Novo Burger <img src='pic/734622241639104532.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
