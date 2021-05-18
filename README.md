@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,223,305 videos</li>
 <li>⚔️ Steam Online: 
-							23,330,061						</li>
+							23,097,201						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue May 18 2021 16:22:42 GMT+0000 (UTC) | 
+| 📆 | Date: Tue May 18 2021 17:42:42 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Smoothie aux fruits rouges | 
-| 1er Apéro | Acras de poulet <img src='pic/734622150908182588.gif' height='20'> | 
-| Déjeuner | Salade de riz à la mexicaine | 
-| Gouter | Smoothie marshmallows | 
-| 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | chili con carne |
+| Ptit dej | Pancakes | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622181589254245.gif' height='20'> | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| Gouter | Mug cake aux framboises <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| 2em Apéro | Crostini à la scamorza fumée | 
+| Diner | Roulés de crêpes au saumon fumé et fromage |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
