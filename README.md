@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,221,289 videos</li>
+<li>⬛️🟧 3,221,831 videos</li>
 <li>⚔️ Steam Online: 
-							15,388,532						</li>
+							15,947,706						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue May 18 2021 06:13:27 GMT+0000 (UTC) | 
+| 📆 | Date: Tue May 18 2021 07:17:27 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Brioche | 
-| 1er Apéro | Bouchée de foie gras | 
-| Déjeuner | Oeufs mimosa au paprika <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| Gouter | Fondant au chocolat <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Diner | Tofu au sésame et à l’orange |
+| Ptit dej | Barres de céréales | 
+| 1er Apéro | Barquette d'endives cocktails | 
+| Déjeuner | Sauté de porc aux courgettes et aux amandes | 
+| Gouter | Un fruit et quelques biscuits | 
+| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> | 
+| Diner | chili con carne |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
