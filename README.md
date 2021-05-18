@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,223,800 videos</li>
+<li>⬛️🟧 3,223,792 videos</li>
 <li>⚔️ Steam Online: 
-							22,187,443						</li>
+							21,196,608						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue May 18 2021 19:21:18 GMT+0000 (UTC) | 
+| 📆 | Date: Tue May 18 2021 20:12:13 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Gâteau au yaourt | 
-| 1er Apéro | Acras de poulet <img src='pic/dance.gif' height='20'> | 
-| Déjeuner | Roulés de crêpes au saumon fumé et fromage | 
+| Ptit dej | Confiture banane kiwi | 
+| 1er Apéro | Houmous | 
+| Déjeuner | croque-monsieur | 
 | Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Crostini à la scamorza fumée | 
-| Diner | Sauté de porc aux courgettes et aux amandes |
+| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
+| Diner | Omelette au fromage |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
