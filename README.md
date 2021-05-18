@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,222,094 videos</li>
+<li>⬛️🟧 3,222,288 videos</li>
 <li>⚔️ Steam Online: 
-							17,181,688						</li>
+							17,894,620						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue May 18 2021 09:12:05 GMT+0000 (UTC) | 
+| 📆 | Date: Tue May 18 2021 10:12:19 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Gâteau au yaourt | 
+| Ptit dej | Fondant au chocolat <img src='pic/4334_pepe1.gif' height='20'> | 
 | 1er Apéro | Barquette d'endives cocktails | 
-| Déjeuner | Oeufs mimosa au paprika <img src='pic/734622150908182588.gif' height='20'> | 
-| Gouter | Mug cake aux framboises <img src='pic/734622241639104532.gif' height='20'> | 
-| 2em Apéro | Bouchée de foie gras | 
-| Diner | Empanadas de crevettes et fromage |
+| Déjeuner | Salade de riz à la mexicaine | 
+| Gouter | Pain + Chocolat | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/7577_CatDancing.gif' height='20'> | 
+| Diner | Pâtes au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
