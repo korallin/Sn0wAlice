@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,221,289 videos</li>
 <li>⚔️ Steam Online: 
-							15,135,690						</li>
+							15,388,532						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue May 18 2021 05:20:24 GMT+0000 (UTC) | 
+| 📆 | Date: Tue May 18 2021 06:13:27 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Quatre-quarts aux pommes | 
+| Ptit dej | Brioche | 
 | 1er Apéro | Bouchée de foie gras | 
-| Déjeuner | Pâtes au saumon fumé <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| Gouter | Un bol de céréales | 
-| 2em Apéro | Acras de poulet <img src='pic/560610208536068118.gif' height='20'> | 
-| Diner | Oeufs cocotte à la crème |
+| Déjeuner | Oeufs mimosa au paprika <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| Gouter | Fondant au chocolat <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| Diner | Tofu au sésame et à l’orange |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
