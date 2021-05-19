@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,224,298 videos</li>
 <li>⚔️ Steam Online: 
-							15,802,816						</li>
+							16,130,786						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Wed May 19 2021 00:36:22 GMT+0000 (UTC) | 
+| 📆 | Date: Wed May 19 2021 02:07:58 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Madeleines à la vanille | 
-| 1er Apéro | Barquette d'endives cocktails | 
-| Déjeuner | Pomme de terre farcie aux lardons | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/734622181589254245.gif' height='20'> | 
-| 2em Apéro | Barquette d'endives cocktails | 
-| Diner | Sandwichs fondants au jambon et au dindon |
+| Ptit dej | Barres de céréales | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> <img src='pic/734622115159867473.gif' height='20'> | 
+| Déjeuner | Spaghetti à l'italienne | 
+| Gouter | Un bol de céréales | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> <img src='pic/734622115159867473.gif' height='20'> | 
+| Diner | urritos aux haricots rouges |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
