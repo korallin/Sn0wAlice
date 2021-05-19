@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,225,818 videos</li>
+<li>⬛️🟧 3,226,036 videos</li>
 <li>⚔️ Steam Online: 
-							22,741,533						</li>
+							22,264,771						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Wed May 19 2021 18:27:12 GMT+0000 (UTC) | 
+| 📆 | Date: Wed May 19 2021 19:20:01 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Pancakes | 
-| 1er Apéro | Barquette d'endives cocktails | 
-| Déjeuner | urritos aux haricots rouges | 
-| Gouter | Un flan pâtissier | 
-| 2em Apéro | Rillettes de saumon | 
-| Diner | Saumon gratiné au cerfeuil <img src='pic/4334_pepe1.gif' height='20'> |
+| Ptit dej | Bol de porridge aux fruits, oeuf coque et verre gourmand | 
+| 1er Apéro | Cocktail <img src='pic/7577_CatDancing.gif' height='20'> | 
+| Déjeuner | Sandwichs fondants au jambon et au dindon | 
+| Gouter | Un bol de céréales | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Diner | Salade de pâtes au thon, tomate et maïs |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
