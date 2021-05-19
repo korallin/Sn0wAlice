@@ -11,7 +11,8 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,224,256 videos</li>
-<li>⚔️ Steam Online: err</li>
+<li>⚔️ Steam Online: 
+							15,558,979						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -50,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Wed May 19 2021 05:19:17 GMT+0000 (UTC) | 
+| 📆 | Date: Wed May 19 2021 06:13:42 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Brioche | 
-| 1er Apéro | Banderilles de langoustines et de chorizo | 
-| Déjeuner | Oeufs mimosa au paprika <img src='pic/734622241639104532.gif' height='20'> | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Bouchée de foie gras | 
-| Diner | Burger de poulet sauce aïoli <img src='pic/5869_TakagiShhh.gif' height='20'> |
+| Ptit dej | Marbré | 
+| 1er Apéro | Bouchée de foie gras | 
+| Déjeuner | Taboulé aux pois chiches <img src='pic/560610208536068118.gif' height='20'> | 
+| Gouter | Pain + Chocolat | 
+| 2em Apéro | Baguette surprise | 
+| Diner | Boulettes orientales <img src='pic/8395_CerberusFastTap.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
