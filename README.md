@@ -10,8 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,225,128 videos</li>
-<li>⚔️ Steam Online: err</li>
+<li>⬛️🟧 3,225,122 videos</li>
+<li>⚔️ Steam Online: 
+							19,152,690						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -50,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Wed May 19 2021 10:11:43 GMT+0000 (UTC) | 
+| 📆 | Date: Wed May 19 2021 11:09:43 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Céréales complètes chocolat bananes coco | 
-| 1er Apéro | Crostini à la scamorza fumée | 
-| Déjeuner | Gratin de gnocchis tomate | 
-| Gouter | Pain + Chocolat | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> | 
-| Diner | Omelette au fromage |
+| Ptit dej | Madeleines à la vanille | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| Déjeuner | Omelette au fromage | 
+| Gouter | Fondant au chocolat <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| 2em Apéro | Baguette surprise | 
+| Diner | Roulés de crêpes au saumon fumé et fromage |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
