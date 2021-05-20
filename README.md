@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,227,031 videos</li>
 <li>⚔️ Steam Online: 
-							15,840,454						</li>
+							15,528,692						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu May 20 2021 03:22:42 GMT+0000 (UTC) | 
+| 📆 | Date: Thu May 20 2021 04:19:23 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Crêpes aux pommes | 
-| 1er Apéro | Houmous | 
-| Déjeuner | chili con carne | 
-| Gouter | Un flan pâtissier | 
-| 2em Apéro | Apéritif breton | 
-| Diner | Pâtes au citron et au basilic |
+| Ptit dej | Gâteau au yaourt | 
+| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Déjeuner | Quiche lorraine | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Acras de poulet <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| Diner | RACLETTE <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
