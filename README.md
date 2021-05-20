@@ -11,8 +11,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,227,966 videos</li>
-<li>⚔️ Steam Online: 
-							17,789,939						</li>
+<li>⚔️ Steam Online: err</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +50,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu May 20 2021 10:11:58 GMT+0000 (UTC) | 
+| 📆 | Date: Thu May 20 2021 11:10:05 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Brioche | 
-| 1er Apéro | Banderilles de langoustines et de chorizo | 
-| Déjeuner | Tofu au sésame et à l’orange | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Acras de poulet <img src='pic/dance.gif' height='20'> | 
-| Diner | Pâtes aux Tomates Fraîches |
+| Ptit dej | Cookies au chocolat | 
+| 1er Apéro | Crostini à la scamorza fumée | 
+| Déjeuner | RACLETTE <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Gouter | Un bol de céréales | 
+| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/dance.gif' height='20'> | 
+| Diner | Boca |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
