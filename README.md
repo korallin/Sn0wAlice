@@ -10,8 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,229,125 videos</li>
-<li>⚔️ Steam Online: err</li>
+<li>⬛️🟧 3,229,140 videos</li>
+<li>⚔️ Steam Online: 
+							17,458,112						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -50,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu May 20 2021 21:10:19 GMT+0000 (UTC) | 
+| 📆 | Date: Thu May 20 2021 22:13:10 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Muffins aux myrtilles <img src='pic/4334_pepe1.gif' height='20'> | 
-| 1er Apéro | Barquette d'endives cocktails | 
-| Déjeuner | Spaghetti à l'italienne | 
-| Gouter | Pain + Chocolat | 
-| 2em Apéro | Apéritif breton | 
-| Diner | Pâtes au saumon fumé <img src='pic/8395_CerberusFastTap.gif' height='20'> |
+| Ptit dej | Brioche | 
+| 1er Apéro | Apéritif breton | 
+| Déjeuner | Roulés de crêpes au saumon fumé et fromage | 
+| Gouter | Mug cake aux framboises <img src='pic/dance.gif' height='20'> | 
+| 2em Apéro | Bouchée de foie gras | 
+| Diner | Novo Burger <img src='pic/Deadpool_heart_love.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
