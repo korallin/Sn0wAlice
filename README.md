@@ -10,8 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,226,697 videos</li>
-<li>⚔️ Steam Online: err</li>
+<li>⬛️🟧 3,226,784 videos</li>
+<li>⚔️ Steam Online: 
+							16,204,379						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -50,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu May 20 2021 00:34:34 GMT+0000 (UTC) | 
+| 📆 | Date: Thu May 20 2021 02:08:38 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Cake chocolat banane <img src='pic/4334_pepe1.gif' height='20'> | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622181589254245.gif' height='20'> | 
-| Déjeuner | Taboulé aux pois chiches <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Gouter | Gâteau au Nutella <img src='pic/734622181589254245.gif' height='20'> | 
+| Ptit dej | Chocolatine <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| 1er Apéro | Banderilles de langoustines et de chorizo | 
+| Déjeuner | Tartiflette | 
+| Gouter | Barres de céréales au chocolat blanc | 
 | 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | Sauté de porc aux courgettes et aux amandes |
+| Diner | Wok de cabillaud à la chinoise |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
