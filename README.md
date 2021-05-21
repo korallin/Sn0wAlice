@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,230,914 videos</li>
+<li>⬛️🟧 3,230,858 videos</li>
 <li>⚔️ Steam Online: 
-							18,188,941						</li>
+							19,335,385						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 21 2021 10:12:45 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 21 2021 11:10:02 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Barres de céréales | 
-| 1er Apéro | Banderilles de langoustines et de chorizo | 
-| Déjeuner | Gratin de gnocchis tomate | 
+| Ptit dej | Salade de fruits | 
+| 1er Apéro | Barquette d'endives cocktails | 
+| Déjeuner | urritos aux haricots rouges | 
 | Gouter | Un flan pâtissier | 
-| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/dance.gif' height='20'> | 
-| Diner | Quiche lorraine |
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Salade de pâtes au thon, tomate et maïs |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
