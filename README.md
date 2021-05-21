@@ -10,8 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,231,328 videos</li>
-<li>⚔️ Steam Online: err</li>
+<li>⬛️🟧 3,231,351 videos</li>
+<li>⚔️ Steam Online: 
+							23,948,331						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -50,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 21 2021 13:25:59 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 21 2021 14:11:43 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Cake chocolat banane <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622181589254245.gif' height='20'> | 
-| Déjeuner | Wok de cabillaud à la chinoise | 
-| Gouter | Gâteau au Nutella <img src='pic/560610208536068118.gif' height='20'> | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/dance.gif' height='20'> | 
-| Diner | Pâtes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> |
+| Ptit dej | Pain perdu | 
+| 1er Apéro | Rillettes de saumon | 
+| Déjeuner | Boca | 
+| Gouter | Fondant au chocolat <img src='pic/734622181589254245.gif' height='20'> | 
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Boulettes orientales <img src='pic/7577_CatDancing.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
