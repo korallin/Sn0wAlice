@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,229,656 videos</li>
 <li>⚔️ Steam Online: 
-							15,807,330						</li>
+							15,389,065						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 21 2021 04:20:58 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 21 2021 05:20:36 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Riz au lait <img src='pic/734622241639104532.gif' height='20'> | 
-| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| Déjeuner | Lasagnes à la bolognaise | 
-| Gouter | Un bol de céréales | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/dance.gif' height='20'> | 
-| Diner | Pâtes au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> |
+| Ptit dej | Quatre-quarts aux pommes | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/dance.gif' height='20'> | 
+| Gouter | Un fruit et quelques biscuits | 
+| 2em Apéro | Baguette surprise | 
+| Diner | Blanquette de veau espagnole |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
