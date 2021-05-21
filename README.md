@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,229,656 videos</li>
 <li>⚔️ Steam Online: 
-							15,389,065						</li>
+							15,774,660						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 21 2021 05:20:36 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 21 2021 06:13:35 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Quatre-quarts aux pommes | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Déjeuner | Pâtes au saumon fumé <img src='pic/dance.gif' height='20'> | 
-| Gouter | Un fruit et quelques biscuits | 
-| 2em Apéro | Baguette surprise | 
-| Diner | Blanquette de veau espagnole |
+| Ptit dej | Fondant au chocolat <img src='pic/734622150908182588.gif' height='20'> | 
+| 1er Apéro | Apéritif breton | 
+| Déjeuner | Gratin de gnocchis tomate | 
+| Gouter | Un flan pâtissier | 
+| 2em Apéro | Acras de poulet <img src='pic/560610208536068118.gif' height='20'> | 
+| Diner | Empanadas de crevettes et fromage |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
