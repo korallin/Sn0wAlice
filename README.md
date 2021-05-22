@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,225,594 videos</li>
 <li>⚔️ Steam Online: 
-							22,917,288						</li>
+							22,551,732						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 22 2021 18:28:34 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 22 2021 19:22:14 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Quatre-quarts aux pommes | 
-| 1er Apéro | Bouchée de foie gras | 
-| Déjeuner | Taboulé aux pois chiches <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| Gouter | Smoothie marshmallows | 
-| 2em Apéro | Rillettes de saumon | 
-| Diner | urritos aux haricots rouges |
+| Ptit dej | Croissants | 
+| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/734622241639104532.gif' height='20'> | 
+| Déjeuner | Sauté de porc aux courgettes et aux amandes | 
+| Gouter | Un bol de céréales | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> | 
+| Diner | Spaghetti à l'italienne |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
