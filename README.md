@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,224,619 videos</li>
 <li>⚔️ Steam Online: 
-							17,231,579						</li>
+							17,249,768						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 22 2021 03:23:59 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 22 2021 04:21:56 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Muffins aux myrtilles <img src='pic/734622181589254245.gif' height='20'> | 
-| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/560610208536068118.gif' height='20'> | 
-| Déjeuner | Pizza au poulet <img src='pic/4334_pepe1.gif' height='20'> | 
-| Gouter | Pain + Chocolat | 
-| 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | Salade de riz à la mexicaine |
+| Ptit dej | Smoothie au kiwi | 
+| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Déjeuner | Spaghetti à l'italienne | 
+| Gouter | Un fruit et quelques biscuits | 
+| 2em Apéro | Houmous | 
+| Diner | Oeufs cocotte à la crème |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
