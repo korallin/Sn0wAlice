@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,224,834 videos</li>
+<li>⬛️🟧 3,225,201 videos</li>
 <li>⚔️ Steam Online: 
-							21,152,079						</li>
+							22,533,646						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 22 2021 11:10:21 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 22 2021 12:15:45 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Verrines de muesli | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Déjeuner | Pâtes aux Tomates Fraîches | 
-| Gouter | Gâteau au Nutella <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| 2em Apéro | Baguette surprise | 
-| Diner | Omelette fine au persil |
+| Ptit dej | Barres de céréales | 
+| 1er Apéro | Bouchée de foie gras | 
+| Déjeuner | Empanadas de crevettes et fromage | 
+| Gouter | Un bol de céréales | 
+| 2em Apéro | Bouchée de foie gras | 
+| Diner | Wok de cabillaud à la chinoise |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
