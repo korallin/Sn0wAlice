@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,227,261 videos</li>
 <li>⚔️ Steam Online: 
-							17,976,958						</li>
+							18,129,961						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sun May 23 2021 05:24:55 GMT+0000 (UTC) | 
+| 📆 | Date: Sun May 23 2021 06:14:14 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Fondant au chocolat <img src='pic/734622241639104532.gif' height='20'> | 
-| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/560610208536068118.gif' height='20'> | 
-| Déjeuner | Pâtes au saumon fumé <img src='pic/7577_CatDancing.gif' height='20'> | 
-| Gouter | Fondant au chocolat <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| Diner | Salade de riz à la mexicaine |
+| Ptit dej | Salade de fruits | 
+| 1er Apéro | Rillettes de saumon | 
+| Déjeuner | RACLETTE <img src='pic/734622181589254245.gif' height='20'> | 
+| Gouter | Un flan pâtissier | 
+| 2em Apéro | Bouchée de foie gras | 
+| Diner | Roulés de crêpes au saumon fumé et fromage |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
