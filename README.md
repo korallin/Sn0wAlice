@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,231,484 videos</li>
 <li>⚔️ Steam Online: 
-							23,625,670						</li>
+							23,408,979						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Mon May 24 2021 16:29:18 GMT+0000 (UTC) | 
+| 📆 | Date: Mon May 24 2021 17:50:54 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Muffins aux myrtilles <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| 1er Apéro | Cocktail <img src='pic/560610208536068118.gif' height='20'> | 
-| Déjeuner | Boulettes orientales <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| 2em Apéro | Bouchée de foie gras | 
-| Diner | Sauté de porc aux courgettes et aux amandes |
+| Ptit dej | Crêpes aux pommes | 
+| 1er Apéro | Rillettes de saumon | 
+| Déjeuner | Saumon gratiné au cerfeuil <img src='pic/dance.gif' height='20'> | 
+| Gouter | Pain + Chocolat | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| Diner | croque-monsieur |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
