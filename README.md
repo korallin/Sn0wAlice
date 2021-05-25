@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,233,154 videos</li>
 <li>⚔️ Steam Online: 
-							16,209,466						</li>
+							15,982,451						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue May 25 2021 03:40:29 GMT+0000 (UTC) | 
+| 📆 | Date: Tue May 25 2021 04:32:52 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Smoothie au kiwi | 
-| 1er Apéro | Cocktail <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| Déjeuner | Saumon gratiné au cerfeuil <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Gouter | Un fruit et quelques biscuits | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
-| Diner | BEVO Bar + Pizzeria |
+| Ptit dej | Pancakes | 
+| 1er Apéro | Banderilles de langoustines et de chorizo | 
+| Déjeuner | Gratin de gnocchis tomate | 
+| Gouter | Pain + Chocolat | 
+| 2em Apéro | Poivrons rouges à la mozzarella <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Diner | chili con carne |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
