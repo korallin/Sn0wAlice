@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,237,576 videos</li>
+<li>⬛️🟧 3,237,722 videos</li>
 <li>⚔️ Steam Online: 
-							20,997,901						</li>
+							19,378,792						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Wed May 26 2021 20:26:11 GMT+0000 (UTC) | 
+| 📆 | Date: Wed May 26 2021 21:16:17 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Confiture banane kiwi | 
-| 1er Apéro | Cocktail <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Déjeuner | BEVO Bar + Pizzeria | 
-| Gouter | Mug cake aux framboises <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| Diner | Oeufs mimosa au paprika <img src='pic/Deadpool_aw_shock.gif' height='20'> |
+| Ptit dej | Barres de céréales | 
+| 1er Apéro | Barquette d'endives cocktails | 
+| Déjeuner | Salade de riz à la mexicaine | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Houmous | 
+| Diner | Roulés de crêpes au saumon fumé et fromage |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
