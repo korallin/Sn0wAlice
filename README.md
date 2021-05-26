@@ -10,9 +10,8 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,236,382 videos</li>
-<li>⚔️ Steam Online: 
-							21,439,618						</li>
+<li>⬛️🟧 3,236,527 videos</li>
+<li>⚔️ Steam Online: err</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +50,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Wed May 26 2021 12:21:07 GMT+0000 (UTC) | 
+| 📆 | Date: Wed May 26 2021 13:41:01 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Barres de céréales | 
-| 1er Apéro | Acras de poulet <img src='pic/734622181589254245.gif' height='20'> | 
-| Déjeuner | Oeufs cocotte à la crème | 
-| Gouter | Mug cake aux framboises <img src='pic/734622181589254245.gif' height='20'> | 
+| Ptit dej | Bol de porridge aux fruits, oeuf coque et verre gourmand | 
+| 1er Apéro | Barquette d'endives cocktails | 
+| Déjeuner | Burger de poulet sauce aïoli <img src='pic/734622115159867473.gif' height='20'> | 
+| Gouter | Fondant au chocolat <img src='pic/560610208536068118.gif' height='20'> | 
 | 2em Apéro | Baguette surprise | 
-| Diner | Wok de cabillaud à la chinoise |
+| Diner | urritos aux haricots rouges |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
