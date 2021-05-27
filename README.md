@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,240,116 videos</li>
+<li>⬛️🟧 3,240,012 videos</li>
 <li>⚔️ Steam Online: 
-							17,762,944						</li>
+							16,636,829						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu May 27 2021 22:19:05 GMT+0000 (UTC) | 
+| 📆 | Date: Thu May 27 2021 23:21:43 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Bol de porridge aux fruits, oeuf coque et verre gourmand | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Déjeuner | Tofu au sésame et à l’orange | 
-| Gouter | Smoothie marshmallows | 
-| 2em Apéro | Bouchée de foie gras | 
-| Diner | urritos aux haricots rouges |
+| Ptit dej | Madeleines à la vanille | 
+| 1er Apéro | Acras de poulet <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Déjeuner | Omelette fine au persil | 
+| Gouter | Un fruit et quelques biscuits | 
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Tartiflette |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
