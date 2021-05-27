@@ -50,14 +50,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu May 27 2021 05:53:55 GMT+0000 (UTC) | 
+| 📆 | Date: Thu May 27 2021 06:39:27 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Fondant au chocolat <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/734622241639104532.gif' height='20'> | 
-| Déjeuner | Oeufs mimosa au paprika <img src='pic/734622115159867473.gif' height='20'> | 
+| Ptit dej | Crêpes aux pommes | 
+| 1er Apéro | Crostini à la scamorza fumée | 
+| Déjeuner | Novo Burger <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
 | Gouter | Pain + Chocolat | 
-| 2em Apéro | Baguette surprise | 
-| Diner | Pâtes au saumon fumé <img src='pic/734622241639104532.gif' height='20'> |
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| Diner | Gratin de gnocchis tomate |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
