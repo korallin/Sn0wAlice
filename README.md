@@ -10,9 +10,8 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,241,339 videos</li>
-<li>⚔️ Steam Online: 
-							23,495,549						</li>
+<li>⬛️🟧 3,241,251 videos</li>
+<li>⚔️ Steam Online: err</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +50,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri May 28 2021 16:47:43 GMT+0000 (UTC) | 
+| 📆 | Date: Fri May 28 2021 18:39:40 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Quatre-quarts aux pommes | 
+| Ptit dej | Pain perdu | 
 | 1er Apéro | Rillettes de saumon | 
-| Déjeuner | Sauté de porc aux courgettes et aux amandes | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622241639104532.gif' height='20'> | 
-| Diner | Salade de pâtes au thon, tomate et maïs |
+| Déjeuner | Tartiflette | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Crostini à la scamorza fumée | 
+| Diner | Salade de riz à la mexicaine |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
