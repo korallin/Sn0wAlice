@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,243,264 videos</li>
+<li>⬛️🟧 3,243,320 videos</li>
 <li>⚔️ Steam Online: 
-							25,085,758						</li>
+							23,948,473						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 29 2021 15:19:44 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 29 2021 16:52:37 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Smoothie au kiwi | 
-| 1er Apéro | Banderilles de langoustines et de chorizo | 
-| Déjeuner | urritos aux haricots rouges | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Apéritif breton | 
-| Diner | Pâtes au saumon fumé <img src='pic/734622150908182588.gif' height='20'> |
+| Ptit dej | Céréales complètes chocolat bananes coco | 
+| 1er Apéro | Acras de poulet <img src='pic/4334_pepe1.gif' height='20'> | 
+| Déjeuner | Omelette au fromage | 
+| Gouter | Mug cake aux framboises <img src='pic/7577_CatDancing.gif' height='20'> | 
+| 2em Apéro | Poivrons rouges à la mozzarella <img src='pic/734622115159867473.gif' height='20'> | 
+| Diner | Pâtes au saumon fumé <img src='pic/560610208536068118.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
