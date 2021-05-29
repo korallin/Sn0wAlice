@@ -11,7 +11,8 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,242,578 videos</li>
-<li>⚔️ Steam Online: err</li>
+<li>⚔️ Steam Online: 
+							21,316,629						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -50,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 29 2021 09:45:30 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 29 2021 10:41:23 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Salade de fruits | 
-| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/dance.gif' height='20'> | 
-| Déjeuner | Novo Burger <img src='pic/4334_pepe1.gif' height='20'> | 
-| Gouter | Mug cake aux framboises <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | Burger de poulet sauce aïoli <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> |
+| Ptit dej | Cake aux poires | 
+| 1er Apéro | Rillettes de saumon | 
+| Déjeuner | Tartiflette | 
+| Gouter | Fondant au chocolat <img src='pic/dance.gif' height='20'> | 
+| 2em Apéro | Cocktail <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Diner | Pâtes au saumon fumé <img src='pic/734622241639104532.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
