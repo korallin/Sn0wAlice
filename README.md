@@ -10,8 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,242,028 videos</li>
-<li>⚔️ Steam Online: err</li>
+<li>⬛️🟧 3,242,300 videos</li>
+<li>⚔️ Steam Online: 
+							19,367,114						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -50,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 29 2021 06:43:20 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 29 2021 08:18:18 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Croissants | 
-| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
-| Déjeuner | Pâtes au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> | 
-| Gouter | Un fruit et quelques biscuits | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Diner | Pâtes au saumon fumé <img src='pic/dance.gif' height='20'> |
+| Ptit dej | Cake chocolat banane <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| 1er Apéro | Barquette d'endives cocktails | 
+| Déjeuner | BEVO Bar + Pizzeria | 
+| Gouter | Gâteau au Nutella <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| 2em Apéro | Acras de poulet <img src='pic/7577_CatDancing.gif' height='20'> | 
+| Diner | Pizza au poulet <img src='pic/Deadpool_heart_love.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
