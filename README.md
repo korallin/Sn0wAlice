@@ -11,8 +11,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,242,028 videos</li>
-<li>⚔️ Steam Online: 
-							18,033,848						</li>
+<li>⚔️ Steam Online: err</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +50,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 29 2021 04:34:19 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 29 2021 06:43:20 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Muffins aux myrtilles <img src='pic/560610208536068118.gif' height='20'> | 
-| 1er Apéro | Banderilles de langoustines et de chorizo | 
-| Déjeuner | Hachis parmentier à la dinde | 
-| Gouter | Mug cake aux framboises <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> | 
-| Diner | croque-monsieur |
+| Ptit dej | Croissants | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> | 
+| Gouter | Un fruit et quelques biscuits | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Diner | Pâtes au saumon fumé <img src='pic/dance.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
