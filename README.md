@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,243,320 videos</li>
 <li>⚔️ Steam Online: 
-							23,948,473						</li>
+							23,010,137						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -30,7 +30,7 @@ et il y en a d'autre mais bon... la liste peut être très longue...
 
 ## **Mes gouts** <img src="pic/734622241639104532.gif" height="20">
 
-Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b** Il y a **421** chall sur Root-Me.
+Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b** Il y a **426** chall sur Root-Me.
 
 "Petit j'étais persuadé que je deviendrai quelqu'un" dit le mec qui sait faire des nmap mais qui est teg par Cloudflare.
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat May 29 2021 16:52:37 GMT+0000 (UTC) | 
+| 📆 | Date: Sat May 29 2021 18:46:12 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Céréales complètes chocolat bananes coco | 
-| 1er Apéro | Acras de poulet <img src='pic/4334_pepe1.gif' height='20'> | 
-| Déjeuner | Omelette au fromage | 
-| Gouter | Mug cake aux framboises <img src='pic/7577_CatDancing.gif' height='20'> | 
-| 2em Apéro | Poivrons rouges à la mozzarella <img src='pic/734622115159867473.gif' height='20'> | 
-| Diner | Pâtes au saumon fumé <img src='pic/560610208536068118.gif' height='20'> |
+| Ptit dej | Verrines de muesli | 
+| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/dance.gif' height='20'> | 
+| Déjeuner | Boca | 
+| Gouter | Un flan pâtissier | 
+| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| Diner | Salade de pâtes au thon, tomate et maïs |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
