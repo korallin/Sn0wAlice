@@ -10,9 +10,8 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,247,035 videos</li>
-<li>⚔️ Steam Online: 
-							24,256,028						</li>
+<li>⬛️🟧 3,247,305 videos</li>
+<li>⚔️ Steam Online: err</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +50,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Mon May 31 2021 14:06:52 GMT+0000 (UTC) | 
+| 📆 | Date: Mon May 31 2021 15:27:15 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Donuts <img src='pic/560610208536068118.gif' height='20'> | 
-| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| Déjeuner | Roulés de crêpes au saumon fumé et fromage | 
-| Gouter | Fondant au chocolat <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| Diner | croque-monsieur |
+| Ptit dej | Croissants | 
+| 1er Apéro | Crostini à la scamorza fumée | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/4334_pepe1.gif' height='20'> | 
+| Gouter | Fondant au chocolat <img src='pic/734622150908182588.gif' height='20'> | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Diner | Oeufs mimosa au paprika <img src='pic/734622181589254245.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
