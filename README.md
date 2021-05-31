@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,246,616 videos</li>
 <li>⚔️ Steam Online: 
-							16,601,356						</li>
+							16,666,425						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Mon May 31 2021 04:46:04 GMT+0000 (UTC) | 
+| 📆 | Date: Mon May 31 2021 06:45:45 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Chocolatine <img src='pic/dance.gif' height='20'> | 
-| 1er Apéro | Rillettes de saumon | 
-| Déjeuner | Pâtes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622150908182588.gif' height='20'> | 
-| Diner | RACLETTE <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> |
+| Ptit dej | Pancakes | 
+| 1er Apéro | Banderilles de langoustines et de chorizo | 
+| Déjeuner | Spaghetti à l'italienne | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/dance.gif' height='20'> | 
+| Diner | Sandwichs fondants au jambon et au dindon |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
