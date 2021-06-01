@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,247,498 videos</li>
+<li>⬛️🟧 3,247,722 videos</li>
 <li>⚔️ Steam Online: 
-							24,124,389						</li>
+							23,567,688						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -30,7 +30,7 @@ et il y en a d'autre mais bon... la liste peut être très longue...
 
 ## **Mes gouts** <img src="pic/734622241639104532.gif" height="20">
 
-Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b** Il y a **426** chall sur Root-Me.
+Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b** Il y a **err** chall sur Root-Me.
 
 "Petit j'étais persuadé que je deviendrai quelqu'un" dit le mec qui sait faire des nmap mais qui est teg par Cloudflare.
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue Jun 01 2021 14:22:31 GMT+0000 (UTC) | 
+| 📆 | Date: Tue Jun 01 2021 15:36:26 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Confiture banane kiwi | 
+| Ptit dej | Brioche | 
 | 1er Apéro | Rillettes de saumon | 
-| Déjeuner | Boulettes orientales <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Diner | Pâtes au saumon fumé <img src='pic/Deadpool_heart_love.gif' height='20'> |
+| Déjeuner | Sauté de porc aux courgettes et aux amandes | 
+| Gouter | Un bol de céréales | 
+| 2em Apéro | Apéritif breton | 
+| Diner | croque-monsieur |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
