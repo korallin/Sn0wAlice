@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,246,360 videos</li>
+<li>⬛️🟧 3,246,559 videos</li>
 <li>⚔️ Steam Online: 
-							16,827,566						</li>
+							17,825,280						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue Jun 01 2021 07:41:02 GMT+0000 (UTC) | 
+| 📆 | Date: Tue Jun 01 2021 09:12:31 GMT+0000 (UTC) | 
 | ---- | :--- | 
 | Ptit dej | Céréales complètes chocolat bananes coco | 
-| 1er Apéro | Banderilles de langoustines et de chorizo | 
-| Déjeuner | Saumon gratiné au cerfeuil <img src='pic/734622241639104532.gif' height='20'> <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| Gouter | Mug cake aux framboises <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | Saumon gratiné au cerfeuil <img src='pic/734622241639104532.gif' height='20'> <img src='pic/Deadpool_heart_love.gif' height='20'> |
+| 1er Apéro | Apéritif breton | 
+| Déjeuner | Blanquette de veau espagnole | 
+| Gouter | Un fruit et quelques biscuits | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| Diner | Pâtes au saumon fumé <img src='pic/734622241639104532.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
