@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,247,541 videos</li>
+<li>⬛️🟧 3,247,811 videos</li>
 <li>⚔️ Steam Online: 
-							22,829,441						</li>
+							21,183,494						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue Jun 01 2021 17:31:10 GMT+0000 (UTC) | 
+| 📆 | Date: Tue Jun 01 2021 20:21:12 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Riz au lait <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| 1er Apéro | Rillettes de saumon | 
-| Déjeuner | Salade de pâtes au thon, tomate et maïs | 
-| Gouter | Gâteau au Nutella <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| 2em Apéro | Apéritif breton | 
-| Diner | Spaghetti à l'italienne |
+| Ptit dej | Chocolatine <img src='pic/734622115159867473.gif' height='20'> | 
+| 1er Apéro | Barquette d'endives cocktails | 
+| Déjeuner | Oeufs mimosa au paprika <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| Gouter | Mug cake aux framboises <img src='pic/734622115159867473.gif' height='20'> | 
+| 2em Apéro | Cocktail <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Diner | Pâtes au citron et au basilic |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
