@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,251,093 videos</li>
 <li>⚔️ Steam Online: 
-							18,479,855						</li>
+							19,427,155						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -51,14 +51,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu Jun 03 2021 09:52:39 GMT+0000 (UTC) | 
+| 📆 | Date: Thu Jun 03 2021 10:49:51 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Chocolatine <img src='pic/7577_CatDancing.gif' height='20'> | 
-| 1er Apéro | Apéritif breton | 
-| Déjeuner | Hachis parmentier à la dinde | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/734622181589254245.gif' height='20'> | 
-| 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | Lasagnes à la bolognaise |
+| Ptit dej | Crêpes aux pommes | 
+| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/7577_CatDancing.gif' height='20'> | 
+| Déjeuner | Oeufs mimosa au paprika <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Baguette surprise | 
+| Diner | Tofu au sésame et à l’orange |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
