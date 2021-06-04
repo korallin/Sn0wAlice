@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,253,445 videos</li>
+<li>⬛️🟧 3,252,628 videos</li>
 <li>⚔️ Steam Online: 
-							22,042,716						</li>
+							20,610,445						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri Jun 04 2021 19:31:11 GMT+0000 (UTC) | 
+| 📆 | Date: Fri Jun 04 2021 21:01:11 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Smoothie aux fruits rouges | 
-| 1er Apéro | Houmous | 
-| Déjeuner | Quiche lorraine | 
-| Gouter | Mug cake aux framboises <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| 2em Apéro | Baguette surprise | 
-| Diner | Quiche lorraine |
+| Ptit dej | Cookies au chocolat | 
+| 1er Apéro | Baguette surprise | 
+| Déjeuner | Pomme de terre farcie aux lardons | 
+| Gouter | Fondant au chocolat <img src='pic/734622115159867473.gif' height='20'> | 
+| 2em Apéro | Poivrons rouges à la mozzarella <img src='pic/dance.gif' height='20'> | 
+| Diner | Tartiflette |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
