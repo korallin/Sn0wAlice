@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,253,674 videos</li>
 <li>⚔️ Steam Online: 
-							18,628,445						</li>
+							19,243,176						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat Jun 05 2021 07:48:08 GMT+0000 (UTC) | 
+| 📆 | Date: Sat Jun 05 2021 08:37:59 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Barres de céréales | 
-| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| Déjeuner | Lasagnes à la bolognaise | 
-| Gouter | Pain + Chocolat | 
-| 2em Apéro | Barquette d'endives cocktails | 
-| Diner | Omelette au fromage |
+| Ptit dej | Pancakes | 
+| 1er Apéro | Crostini à la scamorza fumée | 
+| Déjeuner | Pizza au poulet <img src='pic/734622181589254245.gif' height='20'> | 
+| Gouter | Fondant au chocolat <img src='pic/734622181589254245.gif' height='20'> | 
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Hachis parmentier à la dinde |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
