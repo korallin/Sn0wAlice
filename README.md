@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,255,290 videos</li>
+<li>⬛️🟧 3,255,404 videos</li>
 <li>⚔️ Steam Online: 
-							21,431,106						</li>
+							20,372,150						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sat Jun 05 2021 20:22:54 GMT+0000 (UTC) | 
+| 📆 | Date: Sat Jun 05 2021 21:17:23 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Cake chocolat banane <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
-| 1er Apéro | Cocktail <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Déjeuner | Pâtes au citron et au basilic | 
-| Gouter | Smoothie marshmallows | 
-| 2em Apéro | Barquette d'endives cocktails | 
-| Diner | Boulettes orientales <img src='pic/Deadpool_aw_shock.gif' height='20'> |
+| Ptit dej | Verrines de muesli | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| Déjeuner | Salade de pâtes au thon, tomate et maïs | 
+| Gouter | Un fruit et quelques biscuits | 
+| 2em Apéro | Apéritif breton | 
+| Diner | Lasagnes à la bolognaise |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
