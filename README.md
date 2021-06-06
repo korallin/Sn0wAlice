@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,256,468 videos</li>
+<li>⬛️🟧 3,256,703 videos</li>
 <li>⚔️ Steam Online: 
-							24,397,332						</li>
+							23,330,771						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sun Jun 06 2021 15:18:05 GMT+0000 (UTC) | 
+| 📆 | Date: Sun Jun 06 2021 16:41:45 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Verrines de muesli | 
-| 1er Apéro | Acras de poulet <img src='pic/734622115159867473.gif' height='20'> | 
-| Déjeuner | Oeufs cocotte à la crème | 
-| Gouter | Un fruit et quelques biscuits | 
-| 2em Apéro | Rillettes de saumon | 
-| Diner | Sauté de porc aux courgettes et aux amandes |
+| Ptit dej | Donuts <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/734622241639104532.gif' height='20'> <img src='pic/734622115159867473.gif' height='20'> | 
+| Déjeuner | Gratin de gnocchis tomate | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/734622241639104532.gif' height='20'> <img src='pic/734622115159867473.gif' height='20'> | 
+| Diner | Quiche lorraine |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
