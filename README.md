@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,255,348 videos</li>
 <li>⚔️ Steam Online: 
-							17,723,942						</li>
+							18,021,052						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Sun Jun 06 2021 02:57:04 GMT+0000 (UTC) | 
+| 📆 | Date: Sun Jun 06 2021 04:16:19 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Pain perdu | 
+| Ptit dej | Chocolatine <img src='pic/734622181589254245.gif' height='20'> | 
 | 1er Apéro | Houmous | 
-| Déjeuner | Oeufs cocotte à la crème | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| 2em Apéro | Poivrons rouges à la mozzarella <img src='pic/734622150908182588.gif' height='20'> | 
-| Diner | Quiche lorraine |
+| Déjeuner | Blanquette de veau espagnole | 
+| Gouter | Barres de céréales au chocolat blanc | 
+| 2em Apéro | Baguette surprise | 
+| Diner | Lasagnes à la bolognaise |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
