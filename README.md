@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
 <li>⬛️🟧 3,257,596 videos</li>
 <li>⚔️ Steam Online: 
-							16,669,962						</li>
+							16,035,831						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Mon Jun 07 2021 03:09:00 GMT+0000 (UTC) | 
+| 📆 | Date: Mon Jun 07 2021 05:28:08 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Donuts <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Déjeuner | Pâtes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Banderilles de langoustines et de chorizo | 
-| Diner | Saumon gratiné au cerfeuil <img src='pic/5869_TakagiShhh.gif' height='20'> |
+| Ptit dej | Madeleines à la vanille | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/734622241639104532.gif' height='20'> | 
+| Déjeuner | Boca | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Diner | Pâtes au citron et au basilic |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
