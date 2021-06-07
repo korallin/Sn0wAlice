@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,257,337 videos</li>
+<li>⬛️🟧 3,257,596 videos</li>
 <li>⚔️ Steam Online: 
-							16,577,455						</li>
+							16,669,962						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Mon Jun 07 2021 00:53:29 GMT+0000 (UTC) | 
+| 📆 | Date: Mon Jun 07 2021 03:09:00 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Gâteau au yaourt | 
-| 1er Apéro | Acras de poulet <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> <img src='pic/7577_CatDancing.gif' height='20'> | 
-| Déjeuner | chili con carne | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
-| 2em Apéro | Acras de poulet <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> <img src='pic/7577_CatDancing.gif' height='20'> | 
-| Diner | Pâtes aux Tomates Fraîches |
+| Ptit dej | Donuts <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/Deadpool_clapping_appreciating.gif' height='20'> | 
+| Gouter | Barres de céréales au chocolat blanc | 
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Saumon gratiné au cerfeuil <img src='pic/5869_TakagiShhh.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
