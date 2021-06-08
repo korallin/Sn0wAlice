@@ -10,9 +10,8 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,260,023 videos</li>
-<li>⚔️ Steam Online: 
-							23,021,236						</li>
+<li>⬛️🟧 3,260,081 videos</li>
+<li>⚔️ Steam Online: err</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +52,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue Jun 08 2021 13:29:08 GMT+0000 (UTC) | 
+| 📆 | Date: Tue Jun 08 2021 14:16:31 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Donuts <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| 1er Apéro | Houmous | 
-| Déjeuner | chili con carne | 
-| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/734622181589254245.gif' height='20'> | 
-| 2em Apéro | Apéritif breton | 
-| Diner | BEVO Bar + Pizzeria |
+| Ptit dej | Smoothie au kiwi | 
+| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/7577_CatDancing.gif' height='20'> | 
+| Déjeuner | Wok de cabillaud à la chinoise | 
+| Gouter | Mug cake aux framboises <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| 2em Apéro | Crostini à la scamorza fumée | 
+| Diner | Blanquette de veau espagnole |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
