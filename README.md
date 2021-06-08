@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,259,684 videos</li>
+<li>⬛️🟧 3,259,782 videos</li>
 <li>⚔️ Steam Online: 
-							17,365,768						</li>
+							19,031,941						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Tue Jun 08 2021 09:13:01 GMT+0000 (UTC) | 
+| 📆 | Date: Tue Jun 08 2021 11:06:10 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Quatre-quarts aux pommes | 
-| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
-| Déjeuner | Wok de cabillaud à la chinoise | 
-| Gouter | Pain + Chocolat | 
-| 2em Apéro | Acras de poulet <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Diner | Omelette au fromage |
+| Ptit dej | Pancakes | 
+| 1er Apéro | Rillettes de saumon | 
+| Déjeuner | Roulés de crêpes au saumon fumé et fromage | 
+| Gouter | Gâteau au Nutella <img src='pic/734622115159867473.gif' height='20'> | 
+| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/734622241639104532.gif' height='20'> | 
+| Diner | Pâtes au saumon fumé <img src='pic/734622241639104532.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
