@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,258,466 videos</li>
+<li>⬛️🟧 3,258,731 videos</li>
 <li>⚔️ Steam Online: 
-							16,357,633						</li>
+							16,371,049						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Mon Jun 07 2021 23:31:54 GMT+0000 (UTC) | 
+| 📆 | Date: Tue Jun 08 2021 00:53:37 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Smoothie aux fruits rouges | 
-| 1er Apéro | Bouchée de foie gras | 
-| Déjeuner | Tartiflette | 
-| Gouter | Barres de céréales au chocolat blanc | 
-| 2em Apéro | Cocktail <img src='pic/dance.gif' height='20'> | 
-| Diner | Tofu au sésame et à l’orange |
+| Ptit dej | Cake aux poires | 
+| 1er Apéro | Banderilles de langoustines et de chorizo | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/dance.gif' height='20'> | 
+| Gouter | Mug cake aux framboises <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| 2em Apéro | Banderilles de langoustines et de chorizo | 
+| Diner | Pâtes au saumon fumé <img src='pic/Deadpool_heart_love.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
