@@ -54,42 +54,6 @@ function create_food() {
   return fiche
 }
 
-async function get_covid_data(fiche: any) {
-  try {
-    var data = await fetch('https://api.covidtracking.com/v1/states/current.json')
-    const jsonData = await data.json();
-    var covid = {
-      positive: 0,
-      recovered: 0,
-      death: 0
-    }
-    for (var i = 0; i < jsonData.length; i++){
-      if (jsonData[i].positive != null) {
-        covid.positive = covid.positive+jsonData[i].positive
-      }
-      if (jsonData[i].recovered != null) {
-        covid.recovered = covid.recovered+jsonData[i].recovered
-      }
-      if (jsonData[i].death != null) {
-        covid.death = covid.death+jsonData[i].death
-      }
-    }
-  }  catch (err) {
-    covid = {
-      positive: 0,
-      recovered: 0,
-      death: 0
-    }
-  }
-  
-
-  fiche = fiche.replace('covid.positive',covid.positive )
-  fiche = fiche.replace('covid.recovered', covid.recovered)
-  fiche = fiche.replace('covid.death', covid.death)
-
-  return fiche
-}
-
 async function get_ph_data(fiche: any) {
   try {
     var data = await fetch('https://pornhub.com')
@@ -102,37 +66,11 @@ async function get_ph_data(fiche: any) {
   return fiche
 }
 
-async function get_rm_room(fiche: any) {
-  try {
-    var data = await fetch('https://www.root-me.org')
-    var html = await data.text()
-    html = html.split('class="color1">')[1].split('<')[0]
-  } catch (err) {
-    html = "err"
-  }
-  fiche = fiche.replace('rm.room', html)
-  return fiche
-}
-
-async function get_steam_user(fiche: any) {
-  try {
-    var data = await fetch('https://store.steampowered.com/about/')
-    var html = await data.text()
-    html = html.split('<div class="online_stat">')[1].split('online</div>')[1].split('</div>')[0].replace(/ /g, "")
-  } catch (err) {
-    html = "err"
-  }
-  fiche = fiche.replace('steam.player', html)
-  return fiche
-}
 
 
 //on lance tout le tralala
 var fiche = create_food()
-fiche = await get_covid_data(fiche)
 fiche = await get_ph_data(fiche)
-fiche = await get_rm_room(fiche)
-fiche = await get_steam_user(fiche)
 console.log("done")
 
 

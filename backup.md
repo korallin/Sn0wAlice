@@ -9,7 +9,9 @@
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
+<li>🦠 Covid19 <b>Positive</b>: covid.positive <b>Recovered</b>: covid.recovered <b>Death</b>: covid.death</li>
 <li>⬛️🟧 by.videos</li>
+<li>⚔️ Steam Online: steam.player</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -20,7 +22,30 @@
 | Live Hack | live-hack.org |
 | Cnil.me | Cnil.me |
 | Project Labs | project-labs.org |
-| X Labs | xlabs[...].onion 🧄 |
+
+et il y en a d'autre mais bon... la liste peut être très longue...
+<br>
+<br>
+
+<img src="pic/bt.gif" align="left" height="250">
+
+## **Mes gouts** <img src="pic/734622241639104532.gif" height="20">
+
+Chui chez les blue team, pcq les red, sans leur *script kiddie* c'est des b** Il y a **rm.room** chall sur Root-Me.
+
+"Petit j'étais persuadé que je deviendrai quelqu'un" dit le mec qui sait faire des nmap mais qui est teg par Cloudflare.
+
+<img src="pic/hacker.gif" align="right" height="150">
+
+<br>
+<br>
+<br>
+<br>
+
+Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondial des gamins de 13 ans incompétents.
+
+*tR0p d4Rk c3 MeC*
+
 
 <br>
 <br>
