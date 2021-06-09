@@ -10,9 +10,8 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,261,461 videos</li>
-<li>⚔️ Steam Online: 
-							16,476,005						</li>
+<li>⬛️🟧 3,261,544 videos</li>
+<li>⚔️ Steam Online: err</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +52,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Wed Jun 09 2021 08:11:05 GMT+0000 (UTC) | 
+| 📆 | Date: Wed Jun 09 2021 09:09:35 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Gâteau au yaourt | 
-| 1er Apéro | Cocktail <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Déjeuner | Pâtes aux Tomates Fraîches | 
-| Gouter | Mug cake aux framboises <img src='pic/4334_pepe1.gif' height='20'> | 
-| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
-| Diner | Oeufs cocotte à la crème |
+| Ptit dej | Smoothie aux fruits rouges | 
+| 1er Apéro | Baguette surprise | 
+| Déjeuner | Gratin de gnocchis tomate | 
+| Gouter | Smoothie marshmallows | 
+| 2em Apéro | Barquette d'endives cocktails | 
+| Diner | Saumon gratiné au cerfeuil <img src='pic/8395_CerberusFastTap.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
