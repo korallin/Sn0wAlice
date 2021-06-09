@@ -10,9 +10,9 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>🦠 Covid19 <b>Positive</b>: 28756489 <b>Recovered</b>: 10933942 <b>Death</b>: 515151</li>
-<li>⬛️🟧 3,261,336 videos</li>
+<li>⬛️🟧 3,261,226 videos</li>
 <li>⚔️ Steam Online: 
-							16,082,617						</li>
+							15,855,625						</li>
 <li>📝 Dont forget to watch my websites !</li>
 </ul>
 
@@ -53,14 +53,14 @@ Ah et oubliez pas d'aller check www.root-me.org, il référence le niveau mondia
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Wed Jun 09 2021 03:34:08 GMT+0000 (UTC) | 
+| 📆 | Date: Wed Jun 09 2021 04:31:53 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Marbré | 
-| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/dance.gif' height='20'> | 
-| Déjeuner | Pâtes aux Tomates Fraîches | 
-| Gouter | Gâteau au Nutella <img src='pic/dance.gif' height='20'> | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/dance.gif' height='20'> | 
-| Diner | chili con carne |
+| Ptit dej | Cookies au chocolat | 
+| 1er Apéro | Bouchée de foie gras | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/7577_CatDancing.gif' height='20'> | 
+| Gouter | Mug cake aux framboises <img src='pic/8395_CerberusFastTap.gif' height='20'> | 
+| 2em Apéro | Houmous | 
+| Diner | Pâtes au saumon fumé <img src='pic/5869_TakagiShhh.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
