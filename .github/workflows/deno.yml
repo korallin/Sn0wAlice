@@ -17,6 +17,7 @@ jobs:
       - uses: linhbn123/rebase-pull-requests@v1.0.1
       - name: Git Checkout Deno Module
         uses: actions/checkout@v2
+      - uses: linhbn123/rebase-pull-requests@v1.0.1
       - name: Use Deno Version ${{ matrix.deno-version }}
         uses: denolib/setup-deno@v2
         with:
