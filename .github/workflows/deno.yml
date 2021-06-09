@@ -1,6 +1,6 @@
 name: Deno Update
 
-on:
+on: [push]
   schedule:
   - cron: "0 * * * *"
 
