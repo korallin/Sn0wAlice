@@ -27,14 +27,14 @@
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu Jun 10 2021 08:01:45 GMT+0000 (UTC) | 
+| 📆 | Date: Thu Jun 10 2021 09:01:20 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Croissants | 
-| 1er Apéro | Houmous | 
-| Déjeuner | Roulés de crêpes au saumon fumé et fromage | 
-| Gouter | Fondant au chocolat <img src='pic/734622150908182588.gif' height='20'> | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/560610208536068118.gif' height='20'> | 
-| Diner | Roulés de crêpes au saumon fumé et fromage |
+| Ptit dej | Cake chocolat banane <img src='pic/560610208536068118.gif' height='20'> | 
+| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/4334_pepe1.gif' height='20'> | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
+| Gouter | Cookie moelleux aux pépites de chocolat <img src='pic/5869_TakagiShhh.gif' height='20'> | 
+| 2em Apéro | Crostini à la scamorza fumée | 
+| Diner | Hachis parmentier à la dinde |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
