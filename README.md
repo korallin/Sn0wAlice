@@ -27,14 +27,14 @@
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Thu Jun 10 2021 05:24:12 GMT+0000 (UTC) | 
+| 📆 | Date: Thu Jun 10 2021 06:10:03 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Verrines de muesli | 
-| 1er Apéro | Minis croissants apéro au saumon fumé <img src='pic/734622115159867473.gif' height='20'> | 
-| Déjeuner | Oeufs mimosa au paprika <img src='pic/Deadpool_heart_love.gif' height='20'> | 
-| Gouter | Un flan pâtissier | 
-| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/5869_TakagiShhh.gif' height='20'> | 
-| Diner | Pâtes au saumon fumé <img src='pic/734622115159867473.gif' height='20'> |
+| Ptit dej | Pancakes | 
+| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/734622181589254245.gif' height='20'> | 
+| Déjeuner | Pâtes au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| Gouter | Gâteau au Nutella <img src='pic/734622115159867473.gif' height='20'> | 
+| 2em Apéro | Rillettes de saumon | 
+| Diner | Boulettes orientales <img src='pic/734622241639104532.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
