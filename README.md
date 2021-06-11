@@ -27,14 +27,14 @@
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri Jun 11 2021 03:12:41 GMT+0000 (UTC) | 
+| 📆 | Date: Fri Jun 11 2021 04:04:51 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Pancakes | 
-| 1er Apéro | Apéritif breton | 
+| Ptit dej | Cookies au chocolat | 
+| 1er Apéro | Barquette d'endives cocktails | 
 | Déjeuner | croque-monsieur | 
-| Gouter | Un bol de céréales | 
-| 2em Apéro | Crostini à la scamorza fumée | 
-| Diner | chili con carne |
+| Gouter | Fondant au chocolat <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| 2em Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_heart_love.gif' height='20'> | 
+| Diner | Pâtes au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
