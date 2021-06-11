@@ -27,14 +27,14 @@
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri Jun 11 2021 00:10:58 GMT+0000 (UTC) | 
+| 📆 | Date: Fri Jun 11 2021 01:55:25 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Confiture banane kiwi | 
-| 1er Apéro | Baguette surprise | 
-| Déjeuner | Pâtes au citron et au basilic | 
-| Gouter | Gâteau au Nutella <img src='pic/dance.gif' height='20'> | 
-| 2em Apéro | Rillettes de saumon | 
-| Diner | Empanadas de crevettes et fromage |
+| Ptit dej | Croissants | 
+| 1er Apéro | Roulés apéro de crêpes au saumon fumé <img src='pic/Deadpool_aw_shock.gif' height='20'> | 
+| Déjeuner | Burger de poulet sauce aïoli <img src='pic/734622241639104532.gif' height='20'> | 
+| Gouter | Mug cake aux framboises <img src='pic/734622115159867473.gif' height='20'> | 
+| 2em Apéro | Baguette surprise | 
+| Diner | Novo Burger <img src='pic/Deadpool_heart_love.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
