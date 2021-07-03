@@ -10,7 +10,7 @@
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
 <li>⬛️🟧 by.videos</li>
-<li>📝 Dont forget to watch my websites !</li>
+<li>📝 Dont forget to take a look at my websites !</li>
 </ul>
 
 | Websites Name | Website URL |
