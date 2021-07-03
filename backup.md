@@ -12,7 +12,7 @@
 <li>🦠 Covid19 <b>Positive</b>: covid.positive <b>Recovered</b>: covid.recovered <b>Death</b>: covid.death</li>
 <li>⬛️🟧 by.videos</li>
 <li>⚔️ Steam Online: steam.player</li>
-<li>📝 Dont forget to watch my websites !</li>
+<li>📝 Dont forget to take a look at my websites !</li>
 </ul>
 
 | Websites Name | Website URL |
