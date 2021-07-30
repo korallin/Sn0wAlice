@@ -1,5 +1,5 @@
 ## **Me**  <img src="pic/5869_TakagiShhh.gif" height="20">
-**YO !** Alors qui je suis ? *heuuuu* un mec random. Il n'y a pas plus simple. J'aime ce que je fais même si je le fais mal. Les réseaux *décentralisés* et les *blockchains 📦* c'est mes passions ! *Et, on ne va pas se mentir, les conneries aussi <img src="pic/dance.gif" height="20">* ![](https://komarev.com/ghpvc/?username=DrBlackWolf&color=yellow)
+**YO !** Alors qui je suis ? *heuuuu* uen personne random. Il n'y a pas plus simple. J'aime ce que je fais même si je le fais mal. Les réseaux *décentralisés* et les *blockchains 📦* c'est mes passions ! *Et, on ne va pas se mentir, les conneries aussi <img src="pic/dance.gif" height="20">* ![](https://komarev.com/ghpvc/?username=DrBlackWolf&color=yellow)
 
 <img src="pic/alice.gif" align="right" height="250">
 
@@ -7,7 +7,7 @@
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
-<li>⬛️🟧 3,368,388 videos</li>
+<li>⬛️🟧 3,368,861 videos</li>
 <li>📝 Dont forget to take a look at my websites !</li>
 </ul>
 
@@ -17,7 +17,6 @@
 | Blanche Neige | blanche-neige.org |
 | Live Hack | live-hack.org |
 | Cnil.me | Cnil.me |
-| Project Labs | project-labs.org |
 | X Labs | xlabs[...].onion 🧄 |
 
 <br>
@@ -25,14 +24,14 @@
 
 ## **My food space** <img src="pic/Deadpool_aw_shock.gif" height="20">
 
-| 📆 | Date: Fri Jul 30 2021 02:26:00 GMT+0000 (UTC) | 
+| 📆 | Date: Fri Jul 30 2021 11:08:32 GMT+0000 (UTC) | 
 | ---- | :--- | 
-| Ptit dej | Brioche | 
-| 1er Apéro | Houmous | 
-| Déjeuner | RACLETTE <img src='pic/560610208536068118.gif' height='20'> | 
-| Gouter | Smoothie marshmallows | 
-| 2em Apéro | Acras de poulet <img src='pic/dance.gif' height='20'> | 
-| Diner | Spaghetti à l'italienne |
+| Ptit dej | Céréales complètes chocolat bananes coco | 
+| 1er Apéro | Poivrons rouges à la mozzarella <img src='pic/560610208536068118.gif' height='20'> | 
+| Déjeuner | Omelette fine au persil | 
+| Gouter | Pain + Chocolat | 
+| 2em Apéro | Minis croissants apéro au saumon fumé <img src='pic/560610208536068118.gif' height='20'> | 
+| Diner | RACLETTE <img src='pic/560610208536068118.gif' height='20'> |
 
 *Azy tu veux un apéro ?* <img src="pic/8395_CerberusFastTap.gif" height="25">
 
