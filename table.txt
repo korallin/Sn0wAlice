@@ -1,8 +1,0 @@
-| 📆 | Date: food.day | 
-| ---- | :--- | 
-| Ptit dej | food.petitdej | 
-| 1er Apéro | food.apero0 | 
-| Déjeuner | food.dej | 
-| Gouter | food.gouter | 
-| 2em Apéro | food.apero | 
-| Diner | food.diner |

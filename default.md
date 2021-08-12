@@ -24,11 +24,3 @@
 <br>
 <br>
 
-
-## **Мое место для еды** <img src="pic/Deadpool_aw_shock.gif" height="20">
-
-food.table
-
-*Ази хочешь аперитив?* <img src="pic/8395_CerberusFastTap.gif" height="25">
-
-<img src="pic/L4IXI1XdroF0dGnNJN.gif">
