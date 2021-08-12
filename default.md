@@ -10,7 +10,7 @@
 <h3>⚡️ <u>A Few Quick Facts</u></h3>
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/DrBlackWolf">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Sn0wAlice">Github</a>.</li>
 <li>⬛️🟧 by.videos</li>
 </ul>
 
