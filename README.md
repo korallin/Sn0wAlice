@@ -11,6 +11,7 @@
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Sn0wAlice">Github</a>.</li>
+<<<<<<< Updated upstream
 <li>⬛️🟧 videos"}    };
 
     //SET UP TO lazy_load-1.0.1.js
@@ -476,6 +477,20 @@
                     <div class="leftSide floatLeft loginColumnLeft-en">
                         <p class="signinError" style="display:none;"></p>
                         <p id="signinLoggingin" style="display:none;">Logging in</li>
+=======
+<li>⬛️🟧 
+                        type="text"
+                        value=""
+                        placeholder="Search Pornhub..."
+                        maxlength="100"
+                        name="search"
+                        aria-label="Search"
+                        accesskey="?"
+                        data-token="MTYyODg2MTkxNT0TH6KHf3u84wRxuXco9USuVbZQg5wpCpBeN0tlsdCLEs1M6fn7va8vsB4i816hSrv7UGCAX6nk43OyPG-TQMM."
+                        data-orientation="straight"
+                        autocomplete="off"
+                                                                    /</li>
+>>>>>>> Stashed changes
 </ul>
 
 | Websites Name | Website URL |

@@ -3,11 +3,11 @@ async function get_ph_data(fiche: any) {
   try {
     var data = await fetch('https://pornhub.com')
     var html = await data.text()
-    html = html.split('"videos":"Search ')[1].split('...')[0]
+    html = html.split('id="searchInput"')[1].split(">")[0]
   } catch (err) {
     html = "err"
   }
-  fiche = fiche.replace('by.videos', html)
+  fiche = fiche.replace('by.videos', "3M+")
   return fiche
 }
 
