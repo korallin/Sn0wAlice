@@ -7,7 +7,7 @@ async function get_ph_data(fiche: any) {
   } catch (err) {
     html = "err"
   }
-  fiche = fiche.replace('by.videos', "3M+")
+  fiche = fiche.replace('by.videos', "3M+ video")
   return fiche
 }
 
