@@ -24,3 +24,6 @@
 <br>
 <br>
 
+### Spotify Playing 🎧
+
+[<img src="https://sn0w-alice-hcwgb00av-sn0walice.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31czakldiwou362iovs73kk7k6oi?si=efe1e7a2a6e74913)
