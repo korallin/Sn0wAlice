@@ -11,7 +11,6 @@
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b> and <b>Live-Hack</b></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Sn0wAlice">Github</a>.</li>
-<li>⬛️🟧 3M+</li>
 </ul>
 
 | Websites Name | Website URL |
