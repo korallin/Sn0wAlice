@@ -7,10 +7,10 @@
 
 <img src="pic/gameover.gif" align="right" height="250">
 
-<h3>⚡️ <u>A Few Quick Facts</u></h3>
+<h3><img src="./pic/kyubey.gif" height="20"> <u>A Few Quick Facts</u></h3>
 <ul>
-<li>🔭 I’m currently working on <b>Blanche Neige</b>, <b>Live-Hack</b> and <b>Cassys</b></li>
-<li>👾 Not dead = Player</li>
+<li>🔭 I’m currently working on <b>Blanche Neige</b>, <b>Live-Hack</b> <img src="./pic/hacker.png" height="20"> and <b>Cassys</b></li>
+<li>👾 <b>Not dead</b> = Player</li>
 <li>👾 Dead = Game Over</li>
 <li>👨‍💻 My projects are available on <a href="https://github.com/Sn0wAlice">Github</a></li>
 </ul>
@@ -25,5 +25,24 @@
 <br>
 <br>
 
-### Spotify Playing 🎧
- [![Spotify](https://sn0w-alice.vercel.app/api/spotify)](https://open.spotify.com/user/31czakldiwou362iovs73kk7k6oi?si=308e9759ae2542ce)
+## My soft
+![image](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)
+![image](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white)
+
+
+![image](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+
+
