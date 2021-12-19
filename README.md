@@ -22,6 +22,8 @@
 | Live Hack | live-hack.org |
 | Cnil & me | cnil.me |
 
+[General chat :p](https://github.com/Sn0wAlice/Sn0wAlice/discussions)
+
 <br>
 <br>
 
