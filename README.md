@@ -24,8 +24,6 @@
 
 [General chat :p](https://github.com/Sn0wAlice/Sn0wAlice/discussions)
 
-<br>
-<br>
 
 ## My soft
 ![image](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)
