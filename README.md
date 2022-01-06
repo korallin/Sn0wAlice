@@ -1,26 +1,30 @@
 ## **Me**  <img src="pic/aliceeat.gif" height="25">
 
+<img src="./icon/fr.png" height="20"> Hey! Bienvenue sur mon github. Oui il y a de tout, et un peu de n'importe quoi ! mais bon... Bref, mes codes vous seront peut-être utiles dans plusieurs situations. N'oubliez pas de lacher un stars ❤️
+
 <img src="./icon/en.png" height="20"> Hey! Welcome to my github. Yes there is everything, and a bit of anything! but hey ... In short, my codes will perhaps be useful to you in several situations. Don't forget to like :)
 
 <img src="./icon/ru.png" height="20"> Привет! Добро пожаловать на мой гитхаб. Да есть все и всего понемногу! но эй ... Короче, мои коды, возможно, будут вам полезны в нескольких ситуациях. Не забывай любить :)
  
 
-<img src="pic/gameover.gif" align="right" height="250">
+<img src="pic/cat.gif" align="right" height="250">
 
-<h3><img src="./pic/kyubey.gif" height="20"> <u>A Few Quick Facts</u></h3>
+<h3><img src="./pic/kyubey.gif" height="20"> <u><b>A Few Quick Facts</b></u></h3>
 <ul>
 <li>🔭 I’m currently working on <b>Blanche Neige</b>, <b>Live-Hack</b> <img src="./pic/hacker.png" height="20"> and <b>Cassys</b></li>
-<li>👾 <b>Not dead</b> = Player</li>
-<li>👾 Dead = Game Over</li>
+<li><img src="./icon/metamask.png" height="17"> <b>Meta</b> universe</li>
+<li><img src="./pic/skull.png" height="17"> <b>Blue Team 🪤</b> | <b>Red Team 💣</b></li>
 <li>👨‍💻 My projects are available on <a href="https://github.com/Sn0wAlice">Github</a></li>
 </ul>
 
 | Websites Name | Website URL |
-| -------------- | :---------: |
+| -------------- | :--------- |
 | Cyber Dream | cyberdream.space |
 | Blanche Neige | blanche-neige.org |
 | Live Hack | live-hack.org |
 | Cnil & me | cnil.me |
+
+<p align="right">strange, I've seen it before</p>
 
 [General chat :p](https://github.com/Sn0wAlice/Sn0wAlice/discussions)
 
