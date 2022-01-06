@@ -1,8 +1,6 @@
 ## **Me**  <img src="pic/aliceeat.gif" height="25">
 
-<img src="./icon/fr.png" height="20"> Hey! Bienvenue sur mon github. Oui il y a de tout, et un peu de n'importe quoi ! mais bon... Bref, mes codes vous seront peut-être utiles dans plusieurs situations. N'oubliez pas de lacher un stars ❤️
-
-<img src="./icon/en.png" height="20"> Hey! Welcome to my github. Yes there is everything, and a bit of anything! but hey ... In short, my codes will perhaps be useful to you in several situations. Don't forget to like :)
+<img src="./icon/en.png" height="20"> Hey! Welcome to my github. Yes there is everything, and a bit of anything! but hey ... In short, my codes will perhaps be useful to you in several situations. Don't forget to like ❤️
 
 <img src="./icon/ru.png" height="20"> Привет! Добро пожаловать на мой гитхаб. Да есть все и всего понемногу! но эй ... Короче, мои коды, возможно, будут вам полезны в нескольких ситуациях. Не забывай любить :)
  
